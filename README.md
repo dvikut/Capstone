@@ -15,7 +15,14 @@ The capstone will build upon the knowledge you have gained in the course in orde
 
     Contained in each contract's json in eth-contracts/build/contracts/
 
-# Goerli deployment
+# Contract address
+
+    SolnSquareVerifier
+        https://goerli.etherscan.io/address/0x3ddba19f14f4eb3ef63c4958d285292f2e558895
+    
+    Verifier
+        https://goerli.etherscan.io/address/0xa7C17199b02c823f9cFe55fc053430c835f3D6FE
+        
 
    Deploying 'Verifier'
    --------------------
