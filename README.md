@@ -13,7 +13,7 @@ The capstone will build upon the knowledge you have gained in the course in orde
     
 # Contract ABI's
 
-    Contained in each conrtact's json in eth-contracts/build/contracts/
+    Contained in each contract's json in eth-contracts/build/contracts/
 
 # Goerli deployment
 
